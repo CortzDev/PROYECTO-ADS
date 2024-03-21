@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\controllers\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|c:\\users\\cotuz\\source\\repos\\adsproject\\adsproject\\adsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16A41607-7179-401A-B42D-F9F65A2CDF3F}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\adsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarreraController.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Controllers\\CarreraController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\CarreraController.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Controllers\\CarreraController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\CarreraController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:18:48.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudianteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Repositories\\EstudianteRepository.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Repositories\\EstudianteRepository.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Repositories\\EstudianteRepository.cs",
+              "RelativeToolTip": "ADSProject\\Repositories\\EstudianteRepository.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAkwFIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:11:11.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:42:02.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Program.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Program.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Program.cs",
+              "RelativeToolTip": "ADSProject\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:37:06.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarrera.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Interfaces\\ICarrera.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Interfaces\\ICarrera.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Interfaces\\ICarrera.cs",
+              "RelativeToolTip": "ADSProject\\Interfaces\\ICarrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:50:57.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Interfaces\\IEstudiante.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Interfaces\\IEstudiante.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Interfaces\\IEstudiante.cs",
+              "RelativeToolTip": "ADSProject\\Interfaces\\IEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:21.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarreraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Repositories\\CarreraRepository.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Repositories\\CarreraRepository.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Repositories\\CarreraRepository.cs",
+              "RelativeToolTip": "ADSProject\\Repositories\\CarreraRepository.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAkwFIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:15:23.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:22:44.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Models\\Carrera.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Carrera.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Models\\Carrera.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Carrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:49:07.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\Models\\Estudiante.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:04:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ADSProject.csproj",
+              "DocumentMoniker": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\ADSProject.csproj",
+              "RelativeDocumentMoniker": "ADSProject\\ADSProject.csproj",
+              "ToolTip": "C:\\Users\\cotuz\\source\\repos\\ADSProject\\ADSProject\\ADSProject.csproj",
+              "RelativeToolTip": "ADSProject\\ADSProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T22:06:40.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
